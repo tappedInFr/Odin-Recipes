@@ -1,1 +1,1 @@
-# Odin-Recipes
+This is a project to display some of my favorite recipes, enjoy!!!
